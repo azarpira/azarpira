@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azarpira
 - 👀 I’m interested in Python
-- 🌱 Master of informatique biomedicale
+- 🌱 Master of biomedical informatics
 - 📫 How to reach me rezaazarpira@gmail.com
 
 <!---
